@@ -1,7 +1,7 @@
 # WebPortfolio
 "Webmaster" work ;-)
 
-***Aktuálne spravujem***
+## Aktuálne spravujem
 
 www.sky-carpet-urban.sk
 - stránka beží na upgates.cz
@@ -15,3 +15,27 @@ www.sky-carpet-urban.sk
 www.sky-carpet.sk
 - presta shop v správe agentúry
 - rozsiahly obsahový redizajn v Q1 2025 (elementor, grafika, orientácia na premium customer)
+---
+
+## Staršie projekty
+
+### 2023
+
+idesign.tips
+- affiliate web o interiérovom dizajne
+- wordpress s elementorom
+
+### 2010 - 2017
+
+designteam.sk
+- firmená stránka interiérových dizajnérov, za 7 rokov tri dizajny, HTML -> PHP -> Wordpress
+
+kolomymcm.sk
+- firemná stránka projekčnej kanccelárie, 2 dizajny
+
+
+
+
+
+
+
