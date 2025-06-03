@@ -10,7 +10,7 @@ www.sky-carpet-urban.sk
 - správa cez google analytics, looker studio, merchant, ads
 - polo automatická aktualizácia sklad: 2x ftp csv feed + 1x eamil csv feed -> django databáza update -> csv
 - polo automatická aktualizácia merchant centra: csv -> custom python script -> xml -> ftp
-- úpravy Latte temy, úpravy CSV, doplnanie drobných javascript pre úpravu stránky pre potreby obchodu s kobercami
+- úpravy Latte témy, úpravy CSV, dopĺňanie drobných javascript pre úpravu stránky pre potreby obchodu s kobercami
 
 www.sky-carpet.sk
 - presta shop v správe agentúry
@@ -31,7 +31,7 @@ designteam.sk
 - firmená stránka interiérových dizajnérov, za 7 rokov tri dizajny, HTML -> PHP -> Wordpress
 
 kolomymcm.sk
-- firemná stránka projekčnej kanccelárie, 2 dizajny
+- firemná stránka projekčnej kancelárie, 2 dizajny
 
 
 
