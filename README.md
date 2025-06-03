@@ -5,7 +5,7 @@
 
 www.sky-carpet-urban.sk
 - stránka beží na upgates.cz
-- stránka je komplet ONE MAN SHOW
+- stránka je ONE MAN SHOW
 - príprava komplet obsahu (idea, cieľová skupina, text, grafika, produkty)
 - správa cez google analytics, looker studio, merchant, ads
 - polo automatická aktualizácia sklad: 2x ftp csv feed + 1x eamil csv feed -> django databáza update -> csv
